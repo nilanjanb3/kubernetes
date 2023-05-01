@@ -10,13 +10,16 @@ Here is the list of important topics related to the *Kubernetes*.
     * [04-Kubernetes Architecture](https://kubernetes.io/docs/concepts/overview/components/)
     * [05-Container Runtime](https://kubernetes.io/docs/setup/production-environment/container-runtimes/)
     * [06-Docker vs Containerd](https://kodekloud.com/blog/docker-vs-containerd/)
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
+* 02-Kubernetes Concepts
+    * [01-Concepts](https://kubernetes.io/docs/concepts/)
+    * [02-What are pods](https://kubernetes.io/docs/concepts/workloads/pods/)
+* 03-YAML Basics
+    * [01-YML Notations](https://www.educative.io/courses/introduction-to-yaml/N881Nq9pVY8)
+* 04-Pod, ReplicaSet & Deployments
+    * [01-Pod with yml](https://kubernetes.io/docs/concepts/workloads/pods/)
+    * [02-Replication controller](https://kubernetes.io/docs/concepts/workloads/controllers/replicationcontroller/)
+    * [03-Replica Set the modern way to manage replication](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/)
+    * [04]()
     * []()
     * []()
     * []()
