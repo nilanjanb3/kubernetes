@@ -19,9 +19,10 @@ Here is the list of important topics related to the *Kubernetes*.
     * [01-Pod with yml](https://kubernetes.io/docs/concepts/workloads/pods/)
     * [02-Replication controller](https://kubernetes.io/docs/concepts/workloads/controllers/replicationcontroller/)
     * [03-Replica Set the modern way to manage replication](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/)
-    * [04]()
-    * []()
-    * []()
+    * [04-ReplicationController vs ReplicaSet](https://medium.com/@avinashkumarmahto51/replication-controller-vs-replica-set-29b5e0bc83d9)
+    * [05-Deployment](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
+    * [06-ReplicaSet vs Deployment](https://www.baeldung.com/ops/kubernetes-deployment-vs-replicaset)
+* 05-Networking in Kubernetes
     * []()
     * []()
     * []()
